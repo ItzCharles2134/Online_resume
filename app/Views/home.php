@@ -593,6 +593,8 @@
                     <a href="<?= base_url('skills'); ?>" class="btn">Skills</a>
                     <a href="<?= base_url('education'); ?>" class="btn">Education</a>
                     <a href="<?= base_url('softwareskills'); ?>" class="btn">Software Skills</a>
+                    <a href="<?= base_url('contact/create'); ?>" class="btn">Contact Us</a>
+
 
                 </div>
             </div>
